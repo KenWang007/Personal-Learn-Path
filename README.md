@@ -30,7 +30,9 @@
 ### .Net 平台技术:
   **ASP.NET MVC**  
   **WebApi**  
-  **.NET Core**
+  **.NET Core**  
+  **Owin**    
+  **SSO**
 
 ### 架构思想:
   **微服务**    
