@@ -41,10 +41,10 @@
   **TDD 测试驱动开发**  
   
 ### 测试相关:
-  **契约测试(Consumer-Driven Contracts，简称CDC)：Pact框架**   
-  **单元测试 NUnit**  
-  **功能测试 Function Test(Specflow)**  
-  **前端测试 Jest，Jasmine**
-  
-  
-  
+  **契约测试(Consumer-Driven Contracts，简称CDC)：PactNet**   
+  **单元测试 NUnit,XUnit**  
+  **功能测试 Function Test(Specflow)**  
+  **前端测试 Jest，Jasmine，Mocha**
+ 
+ 
+ 
